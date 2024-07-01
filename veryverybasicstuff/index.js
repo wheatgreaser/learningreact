@@ -1,0 +1,1 @@
+ReactDOM.render(<h1>whats crackalacking yall</h1>, document.getElementById("root"))
