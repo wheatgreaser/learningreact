@@ -1,1 +1,7 @@
-ReactDOM.render(<h1>whats crackalacking yall</h1>, document.getElementById("root"))
+function Yo(){
+    return(
+        <h1>yoyoyoyo</h1>
+    )
+
+}
+ReactDOM.render( <Yo />, document.getElementById("root"))
